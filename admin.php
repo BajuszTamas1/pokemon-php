@@ -54,9 +54,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['delete_username'])) {
                     <li><a href="index.php">
                             <p>Home</p>
                         </a></li>
-                    <li><a href="cards.php">
-                            <p>Cards</p>
-                        </a></li>
                     <?php if (isset($admin['username']) && $admin['username'] == 'admin'): ?>
                         <li><a href="admin.php">
                                 <p>Admin panel</p>
@@ -78,7 +75,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['delete_username'])) {
                         </li>
                         <li class="bal">
                             <p>💰
-                                <?php echo round($admin['money'],2); ?>
+                                <?php echo round($admin['money'], 2); ?>
                             </p>
                         </li>
                     <?php else: ?>
