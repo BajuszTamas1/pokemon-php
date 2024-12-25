@@ -1,0 +1,82 @@
+body {
+    background-color: var(--clr-white);
+    color: var(--clr-dark);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    background-color: var(--clr-main);
+    color: var(--clr-white);
+    padding: 10px;
+    margin-top: auto;
+}
+
+#loginpanel {
+    margin: 0 auto;
+    max-width: 90%;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: 2px solid var(--clr-main);
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+#loginbtn input {
+    background-color: var(--clr-main);
+    color: var(--clr-white);
+    border: 2px solid var(--clr-main);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+    text-align: center;
+}
+
+#loginbtn {
+    text-align: center;
+}
+
+#loginbtn button {
+    background-color: var(--clr-main);
+    color: var(--clr-white);
+    border: 2px solid var(--clr-main);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+    text-align: center;
+}
+
+#loginbtn button a {
+    color: var(--clr-white);
+    text-decoration: none;
+}
+
+
+input {
+    border: 2px solid var(--clr-main);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+    width: 100%;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}

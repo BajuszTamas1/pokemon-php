@@ -1,0 +1,176 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@localhost.admin",
+        "password": "admin",
+        "permission": "admin",
+        "money": 1000000,
+        "registered": "2024-01-10",
+        "cards": {
+            "7": {
+                "name": "Pidgey",
+                "type": "normal",
+                "hp": 40,
+                "attack": 45,
+                "defense": 40,
+                "price": 251,
+                "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/016.png"
+            },
+            "8": {
+                "name": "Rattata",
+                "type": "normal",
+                "hp": 30,
+                "attack": 56,
+                "defense": 35,
+                "price": 253,
+                "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/019.png"
+            },
+            "24": {
+                "name": "Caterpie",
+                "type": "bug",
+                "hp": 45,
+                "attack": 30,
+                "defense": 35,
+                "price": 195,
+                "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/010.png"
+            },
+            "28": {
+                "name": "Ekans",
+                "type": "poison",
+                "hp": 35,
+                "attack": 60,
+                "defense": 44,
+                "price": 288,
+                "description": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/023.png"
+            },
+            "29": {
+                "name": "Spearow",
+                "type": "normal",
+                "hp": 40,
+                "attack": 60,
+                "defense": 30,
+                "price": 262,
+                "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/021.png"
+            },
+            "30": {
+                "name": "Weedle",
+                "type": "bug",
+                "hp": 40,
+                "attack": 35,
+                "defense": 30,
+                "price": 195,
+                "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/013.png"
+            },
+            "38": {
+                "name": "Bellsprout",
+                "type": "grass",
+                "hp": "25",
+                "attack": "35",
+                "defense": "25",
+                "price": "133",
+                "description": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/069.png"
+            },
+            "39": {
+                "name": "Bulbasaur",
+                "type": "grass",
+                "hp": 45,
+                "attack": 49,
+                "defense": 49,
+                "price": 318,
+                "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POK\u00e9MON.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/001.png"
+            },
+            "40": {
+                "name": "Squirtle",
+                "type": "water",
+                "hp": 44,
+                "attack": 48,
+                "defense": 65,
+                "price": 314,
+                "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/007.png"
+            },
+            "41": {
+                "name": "Charizard",
+                "type": "fire",
+                "hp": 78,
+                "attack": 84,
+                "defense": 78,
+                "price": 534,
+                "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/006.png"
+            },
+            "42": {
+                "name": "Pikachu",
+                "type": "electric",
+                "hp": 60,
+                "attack": 20,
+                "defense": 20,
+                "price": 160,
+                "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/025.png"
+            }
+        }
+    },
+    {
+        "username": "test",
+        "email": "test@gmail.com",
+        "password": "test",
+        "permission": "user",
+        "money": 1720.9,
+        "registered": "2024-01-10",
+        "cards": []
+    },
+    {
+        "username": "test2",
+        "email": "test2@test2.test",
+        "password": "asdasdasd",
+        "permission": "user",
+        "money": 2000,
+        "registered": "2024-01-15",
+        "cards": []
+    },
+    {
+        "username": "test3",
+        "email": "asd@asd.asd",
+        "password": "asdasdasd",
+        "permission": "user",
+        "money": 2000,
+        "registered": "2024-01-15",
+        "cards": []
+    },
+    {
+        "username": "test4",
+        "email": "asdasd@asd.asd",
+        "password": "asdasdasd",
+        "permission": "user",
+        "money": 2000,
+        "registered": "2024-01-15",
+        "cards": []
+    },
+    {
+        "username": "asd",
+        "email": "bbbb@gggg.gg",
+        "password": "aaaaaa",
+        "permission": "user",
+        "money": 1930.6,
+        "registered": "2024-01-15",
+        "cards": []
+    },
+    {
+        "username": "bela",
+        "email": "bela@bableves.com",
+        "password": "belabableves",
+        "permission": "user",
+        "money": 2000,
+        "registered": "2024-01-16",
+        "cards": []
+    }
+]
